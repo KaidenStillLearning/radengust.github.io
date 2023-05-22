@@ -22,3 +22,7 @@
 section {
     padding-top: 5rem;
 }
+
+#btn-loading {
+    background-color: #94adaa;
+}
